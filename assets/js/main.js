@@ -394,7 +394,7 @@
 })(jQuery);
 
 (function() {
-    var phrases = ["The Semiconductor Industry", "The EV Industry"];
+    var phrases = ["ASIC Design", "A&MS Design", "Embedded Systems", "Power Electronics", "The Semiconductor Industry", "VLSI"];
     var currentPhraseIndex = 0;
     var textElement = document.getElementById("dynamic-text");
     var letterIndex = 0;
